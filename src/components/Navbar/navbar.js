@@ -14,51 +14,48 @@ class Navbar extends React.Component {
               <span className="sr-only">Toggle navigation</span>
               <span className="navbar-toggler-icon"></span>
             </button>
-            <div className="collapse navbar-collapse" id="navcol-1">
-              <ul className="nav navbar-nav ml-auto">
-                <li className="nav-item" role="presentation">
+            <div
+              className="collapse navbar-collapse d-xl-flex justify-content-xl-center"
+              id="navcol-1"
+            >
+              <ul className="nav navbar-nav d-xl-flex justify-content-xl-end">
+                <li role="presentation" className="nav-item">
                   <a
-                    className="nav-link"
+                    className="nav-link text-center"
                     href="#"
-                    style={{ fontFamily: "Fira Code" }}
+                    style={{ fontFamily: "'Fira Code', monospace" }}
                   >
                     About
                   </a>
                 </li>
-                <li className="nav-item" role="presentation">
+                <li role="presentation" className="nav-item">
                   <a
-                    className="nav-link"
+                    className="nav-link text-center"
                     href="#"
-                    style={{ fontFamily: "Fira Code" }}
+                    style={{ fontFamily: "'Fira Code', monospace" }}
                   >
                     Experience
                   </a>
                 </li>
-                <li className="nav-item" role="presentation">
+                <li role="presentation" className="nav-item">
                   <a
-                    className="nav-link"
+                    className="nav-link text-center"
                     href="#"
-                    style={{ fontFamily: "Fira Code" }}
+                    style={{ fontFamily: "'Fira Code', monospace" }}
                   >
                     Work
                   </a>
                 </li>
-                <li className="nav-item" role="presentation">
+                <li role="presentation" className="nav-item">
                   <a
                     className="nav-link text-center"
                     href="#"
-                    style={{ fontFamily: "Fira Code" }}
+                    style={{ fontFamily: "'Fira Code', monospace" }}
                   >
                     Contact
                   </a>
                 </li>
               </ul>
-              <form className="form-inline mr-auto" target="_self">
-                <div className="form-group">
-                  <label for="search-field"></label>
-                </div>
-              </form>
-              <span className="navbar-text"></span>
             </div>
           </div>
         </nav>

@@ -1,7 +1,9 @@
 {
   "header": {
-    "name": "Vithu Mathi",
+    "name": "Vithu Mathi.",
     "tagLine": "I build things for the web & mobile.",
-    "intro": "I am a Toronto based software developer specializing in building web and mobile applications."
+    "intro": "I am a Toronto based software developer specializing in building web and mobile applications.",
+    "githubLink": "https://github.com/vithumathi",
+    "linkedinLink": "https://www.linkedin.com/in/vithum"
   }
 }
