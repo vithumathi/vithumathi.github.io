@@ -35,11 +35,11 @@ class Header extends React.Component {
       <div className="header-dark" style={{ height: "100vh" }}>
         <Navbar />
         <div className="container hero">
-          <div className="row" style={{ marginTop: "10vh" }}>
+          <div className="row">
             <div className="col-md-8 offset-md-2 mx-auto text-right">
               <h1
                 style={{
-                  marginTop: "100px",
+                  marginTop: "0px",
                   marginBottom: "0px",
                   fontFamily: "Bitter, serif",
                 }}
