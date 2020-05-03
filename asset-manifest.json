@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-portfolio/static/css/main.e6a45856.chunk.css",
+    "main.js": "/app-portfolio/static/js/main.b3d6e660.chunk.js",
+    "main.js.map": "/app-portfolio/static/js/main.b3d6e660.chunk.js.map",
+    "runtime-main.js": "/app-portfolio/static/js/runtime-main.521cbf0a.js",
+    "runtime-main.js.map": "/app-portfolio/static/js/runtime-main.521cbf0a.js.map",
+    "static/js/2.77a0bec3.chunk.js": "/app-portfolio/static/js/2.77a0bec3.chunk.js",
+    "static/js/2.77a0bec3.chunk.js.map": "/app-portfolio/static/js/2.77a0bec3.chunk.js.map",
+    "index.html": "/app-portfolio/index.html",
+    "precache-manifest.7ab53554c3661d05cf52c2e85958cb65.js": "/app-portfolio/precache-manifest.7ab53554c3661d05cf52c2e85958cb65.js",
+    "service-worker.js": "/app-portfolio/service-worker.js",
+    "static/css/main.e6a45856.chunk.css.map": "/app-portfolio/static/css/main.e6a45856.chunk.css.map",
+    "static/js/2.77a0bec3.chunk.js.LICENSE.txt": "/app-portfolio/static/js/2.77a0bec3.chunk.js.LICENSE.txt",
+    "static/media/header-dark.css": "/app-portfolio/static/media/mountain_bg.aeaa0a31.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.521cbf0a.js",
+    "static/js/2.77a0bec3.chunk.js",
+    "static/css/main.e6a45856.chunk.css",
+    "static/js/main.b3d6e660.chunk.js"
+  ]
+}
