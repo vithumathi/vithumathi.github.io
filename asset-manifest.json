@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app-portfolio/static/css/main.8bcf0c03.chunk.css",
+    "main.css": "/app-portfolio/static/css/main.d2db92e8.chunk.css",
     "main.js": "/app-portfolio/static/js/main.f8b0359e.chunk.js",
     "main.js.map": "/app-portfolio/static/js/main.f8b0359e.chunk.js.map",
     "runtime-main.js": "/app-portfolio/static/js/runtime-main.521cbf0a.js",
@@ -8,16 +8,16 @@
     "static/js/2.77a0bec3.chunk.js": "/app-portfolio/static/js/2.77a0bec3.chunk.js",
     "static/js/2.77a0bec3.chunk.js.map": "/app-portfolio/static/js/2.77a0bec3.chunk.js.map",
     "index.html": "/app-portfolio/index.html",
-    "precache-manifest.fa8d38b9492857fb28db770d7f5583e6.js": "/app-portfolio/precache-manifest.fa8d38b9492857fb28db770d7f5583e6.js",
+    "precache-manifest.1e57fc8dffe4dff800c6477ba28b07c3.js": "/app-portfolio/precache-manifest.1e57fc8dffe4dff800c6477ba28b07c3.js",
     "service-worker.js": "/app-portfolio/service-worker.js",
-    "static/css/main.8bcf0c03.chunk.css.map": "/app-portfolio/static/css/main.8bcf0c03.chunk.css.map",
+    "static/css/main.d2db92e8.chunk.css.map": "/app-portfolio/static/css/main.d2db92e8.chunk.css.map",
     "static/js/2.77a0bec3.chunk.js.LICENSE.txt": "/app-portfolio/static/js/2.77a0bec3.chunk.js.LICENSE.txt",
     "static/media/header-dark.css": "/app-portfolio/static/media/mountain_bg.aeaa0a31.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.521cbf0a.js",
     "static/js/2.77a0bec3.chunk.js",
-    "static/css/main.8bcf0c03.chunk.css",
+    "static/css/main.d2db92e8.chunk.css",
     "static/js/main.f8b0359e.chunk.js"
   ]
 }
