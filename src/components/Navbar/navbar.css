@@ -1,0 +1,16 @@
+nav {
+  position: fixed !important;
+  width: 100% !important;
+}
+.navbar {
+  background-color: black;
+}
+
+.navbar-toggler-icon {
+  background-color: #00adad !important;
+}
+.nav-item a {
+  color: #00adad !important;
+  font-family: "Fira Code", monospace;
+  font-size: 2rem;
+}
