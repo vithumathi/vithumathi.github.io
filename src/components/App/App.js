@@ -1,8 +1,9 @@
 import React from "react";
 import "./App.css";
 import Header from "../Header/Header";
-import Navbar from "../Navbar/navbar";
 import AboutMe from "../About/About";
+import Experience from "../Experience/Experience";
+import Footer from "../Footer/Footer";
 import profileData from "../../data/portfolioData.json";
 
 class App extends React.Component {
@@ -15,6 +16,8 @@ class App extends React.Component {
       <div>
         <Header headerData={this.state.headerData} />
         <AboutMe headerData={this.state.headerData} />
+        <Experience />
+        <Footer />
       </div>
     );
   }

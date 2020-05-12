@@ -39,7 +39,7 @@ class Header extends React.Component {
         <div className="landing-text">
           <h1>
             Hi, I&#39;m{" "}
-            <span style={{ color: "#9CD7D5" }}> {this.state.data.name}</span>
+            <span style={{ color: "#00adad" }}> {this.state.data.name}</span>
           </h1>
           <h6>{this.state.data.tagLine}</h6>
         </div>

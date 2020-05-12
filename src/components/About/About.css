@@ -8,21 +8,17 @@
 .about-heading {
   text-align: center;
   text-transform: uppercase;
-
   margin-bottom: 6rem;
 }
 
-.about-heading h1,
-h6 {
-  line-height: 0;
-}
-
 .about-heading h1 {
+  line-height: 0;
   font-size: 10rem;
   opacity: 0.3;
 }
 
 .about-heading h6 {
+  line-height: 0;
   font-size: 2rem;
   font-weight: 300;
 }

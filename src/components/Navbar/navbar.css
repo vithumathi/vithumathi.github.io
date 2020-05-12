@@ -1,5 +1,4 @@
 nav {
-  position: fixed !important;
   width: 100% !important;
 }
 .navbar {
@@ -8,6 +7,11 @@ nav {
 
 .navbar-toggler-icon {
   background-color: #00adad !important;
+}
+
+.nav-item {
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .nav-item a {
   color: #00adad !important;

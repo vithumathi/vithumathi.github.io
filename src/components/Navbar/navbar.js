@@ -23,7 +23,7 @@ class Navbar extends React.Component {
                   </a>
                 </li>
                 <li role="presentation" className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="#experience">
                     Experience
                   </a>
                 </li>
