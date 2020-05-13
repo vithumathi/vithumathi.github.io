@@ -1,0 +1,27 @@
+.row {
+  padding-top: 2rem;
+}
+.card-body {
+  background-color: #080808;
+  min-height: 150px;
+}
+
+.card-body a i {
+  font-size: 3rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+}
+
+.card-body ul li {
+  color: #00adad;
+  font-family: "Fira Code", monospace;
+  font-size: 1.5rem;
+  padding-right: 1rem;
+}
+
+.card-body h2 {
+  color: white;
+  opacity: 0.5;
+}
