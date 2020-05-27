@@ -50,3 +50,21 @@
   display: inline;
   padding: 0px 10px;
 }
+
+/*Media queries*/
+
+@media screen and (max-width: 768px) {
+  .about-heading {
+    font-size: 8rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .about .container {
+    flex-direction: column;
+  }
+
+  .profile-img {
+    margin: 0 0 7rem 0;
+  }
+}

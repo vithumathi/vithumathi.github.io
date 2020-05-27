@@ -21,7 +21,10 @@ class About extends React.Component {
       <section className="about" id="about">
         <div className="container">
           <div class="profile-img">
-            <img src="" alt="Profile picture" />
+            <img
+              src="https://media-exp1.licdn.com/dms/image/C5603AQHF9ScRb9KzqQ/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=Gsn0iK8w-gsPy74i_5rhNAxI14b19Hwgi9314Bi3UEY"
+              alt="Profile picture"
+            />
           </div>
           <div className="about-details">
             <div className="about-heading">

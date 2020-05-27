@@ -25,3 +25,25 @@ header {
   font-weight: 300;
   font-family: "Fira Code", monospace;
 }
+
+/*Media queries*/
+
+@media screen and (max-width: 768px) {
+  .landing-text h1 {
+    font-size: 15rem;
+  }
+  .landing-text h6 {
+    font-size: 1.7rem;
+  }
+}
+
+/*Media queries*/
+
+@media screen and (max-width: 600px) {
+  .landing-text h1 {
+    font-size: 8rem;
+  }
+  .landing-text h6 {
+    font-size: 1.4rem;
+  }
+}
