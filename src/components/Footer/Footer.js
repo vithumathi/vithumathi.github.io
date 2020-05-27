@@ -5,9 +5,9 @@ class Footer extends React.Component {
   render() {
     return (
       <footer className="copyright">
-        <div className="up" id="up">
+        <a className="up" id="up" href="#home">
           <i className="fa fa-angle-up"></i>
-        </div>
+        </a>
         <p>2020 Vithu Mathi</p>
       </footer>
     );
