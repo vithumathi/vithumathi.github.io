@@ -79,3 +79,11 @@ ul {
   font-size: 1.6rem;
   font-weight: 300;
 }
+
+/*Media queries*/
+
+@media screen and (max-width: 768px) {
+  .section-heading h1 {
+    font-size: 3rem;
+  }
+}

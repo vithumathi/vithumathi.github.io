@@ -28,8 +28,8 @@ class Navbar extends React.Component {
                   </a>
                 </li>
                 <li role="presentation" className="nav-item">
-                  <a className="nav-link" href="#">
-                    Work
+                  <a className="nav-link" href="#projects">
+                    Projects
                   </a>
                 </li>
                 <li role="presentation" className="nav-item">
