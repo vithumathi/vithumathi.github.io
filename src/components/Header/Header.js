@@ -34,7 +34,7 @@ class Header extends React.Component {
       //     </div>
       //   </div>
       // </div>
-      <header>
+      <header id="home">
         <Navbar />
         <div className="landing-text">
           <h1>
